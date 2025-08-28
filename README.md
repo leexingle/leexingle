@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charlotte✨Xing Le</h1>
-<h3 align="center">Final year Computer Science student in Lancaster University</h3>
+<h3 align="center">Fresh Graduate Computer Science student in Lancaster University</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leexingle&label=Profile%20views&color=0e75b6&style=flat" alt="leexingle" /> </p>
